@@ -59,5 +59,5 @@ def get_shop_list_by_dishes(dishes, persons=int):
 
 get_shop_list_by_dishes(['Омлет', 'Фахитос'], 2)
 
-print("Ok, ok")
+print('gfdfdghgh')
 
